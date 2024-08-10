@@ -1,10 +1,9 @@
 attrs==19.3.0
 Automat==0.8.0
-blinker==1.4
+blinker==1.8.2
 certifi==2019.11.28
 chardet==3.0.4
-Click==7.0
-cloud-init==24.1.3
+click==8.1.7
 colorama==0.4.3
 command-not-found==0.3
 configobj==5.0.6
@@ -15,13 +14,15 @@ distro==1.4.0
 distro-info==0.23+ubuntu1.1
 entrypoints==0.3
 exceptiongroup==1.2.2
+Flask==3.0.3
 httplib2==0.14.0
 hyperlink==19.0.0
 idna==2.8
-importlib-metadata==1.5.0
+importlib_metadata==8.2.0
 incremental==16.10.1
 iniconfig==2.0.0
-Jinja2==2.10.1
+itsdangerous==2.2.0
+Jinja2==3.1.4
 jsonpatch==1.22
 jsonpointer==2.0
 jsonschema==3.2.0
@@ -30,7 +31,7 @@ language-selector==0.1
 launchpadlib==1.10.13
 lazr.restfulclient==0.14.2
 lazr.uri==1.0.3
-MarkupSafe==1.1.0
+MarkupSafe==2.1.5
 more-itertools==4.2.0
 netifaces==0.10.4
 oauthlib==3.1.0
@@ -67,5 +68,6 @@ ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.8
 wadllib==1.3.3
+Werkzeug==3.0.3
 zipp==1.0.0
 zope.interface==4.7.1
